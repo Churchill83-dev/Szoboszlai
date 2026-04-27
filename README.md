@@ -1,28 +1,159 @@
-Evaluation:
-Evaluation – Greenfield Local Hub Prototype
+Here’s a clear, Distinction-level checklist for Task 3A tailored to your Greenfield Local Hub project. You can literally tick this off as you complete your write-up.
 
-The purpose of this project was to design and develop a functional prototype for Greenfield Local Hub, a platform that connects local producers with customers. The system was required to allow users to browse products, manage orders, access account features, and support producers through a dedicated interface. Overall, the solution successfully meets the majority of the original requirements and demonstrates a wide range of technical and design skills.
+⸻
 
-One of the main strengths of the system is its clear and consistent user interface. All pages follow a similar layout, including a navigation bar, structured sections, and a footer, which improves usability and ensures a cohesive user experience. The use of a consistent colour scheme and spacing contributes to a professional appearance, making the platform easy to navigate for users. Additionally, the homepage effectively introduces the platform with key information, featured products, and clear call-to-action buttons, which aligns well with the intended purpose.
+✅ Task 3A Checklist – Greenfield Local Hub
 
-Another key strength is the range of functionality implemented. Users are able to browse products, search for specific items using a dynamic search feature, and view a structured product layout. The cart system includes interactive elements such as quantity controls and delivery selection, which updates the total cost dynamically. The login and registration interface allows users to switch between forms, improving usability. Furthermore, both customer and producer dashboards have been developed, showing order history and product management features respectively. This demonstrates a strong understanding of user roles and system requirements.
+⸻
 
-The system also shows good use of front-end development techniques. HTML has been used effectively to structure content, while CSS Grid and Flexbox have been used to create responsive and organised layouts. JavaScript has been implemented to add interactivity, such as filtering products and toggling delivery options. These features enhance the overall functionality of the system and improve the user experience.
+🟢 1. Introduction (Set the context)
 
-However, there are some limitations within the current solution. The most significant limitation is the lack of a database, meaning that data is not stored permanently. For example, cart items, user accounts, and orders are not saved after the page is refreshed. This reduces the realism of the system compared to a fully functional web application. Additionally, the login and registration system does not include authentication or validation, which means it does not provide real security. Some features, such as the cart, are partially functional but do not fully update dynamically based on user actions.
+⬜ Explain the purpose of Task 3A (gathering feedback)
+⬜ Mention iterative development (improving system using feedback)
+⬜ State that feedback will inform future improvements (Task 3B)
 
-There are also areas where the code could be improved. The CSS file contains repeated sections and duplicated styling rules, which could make the system harder to maintain and update in the future. Additionally, some HTML practices, such as placing links inside buttons, are not considered best practice and could be improved to enhance accessibility and structure.
+💡 Top tip: Use phrases like “evaluate usability, functionality, and technical performance”
 
-If the project were to be developed further, several improvements could be made. A database such as Firebase or MySQL could be integrated to allow persistent storage of user data, orders, and products. The cart system could be enhanced using JavaScript or local storage to fully manage items and totals dynamically. Form validation could also be implemented to ensure that users enter valid data, improving both usability and security. Accessibility could be improved by adding features such as ARIA labels, better contrast, and full keyboard navigation support.
+⸻
 
-In conclusion, the Greenfield Local Hub prototype successfully meets the core requirements of the project and demonstrates strong front-end development skills. The system provides a clear, user-friendly interface with a wide range of features, including product browsing, cart functionality, and dashboard views. While there are some limitations, particularly regarding data persistence and security, the solution provides a solid foundation that could be developed into a fully functional application. Overall, the project is effective, well-structured, and suitable for its intended purpose.
+🟢 2. Feedback Plan (HOW you will collect feedback)
 
+👥 Audience
 
-🧾 FINAL CHECKLIST (WHAT TO DO NEXT)
+⬜ Identify non-technical users (customers using your site)
+⬜ Identify technical users (people who understand code/systems)
+⬜ Explain why both are needed
 
-✔ Take screenshots
-✔ Create testing tables
-✔ Write development logs
-✔ Write evaluation
-✔ Fix small HTML/CSS issues
-Appendicies
+⸻
+
+🛠 Methods
+
+⬜ Survey (main method)
+⬜ User testing (people actually use your site)
+⬜ Optional: Interview (for deeper feedback)
+
+⬜ Justify your choices:
+
+* Survey = quantitative data
+* Testing = real interaction
+* Technical review = system quality
+
+⸻
+
+🟢 3. Survey Design (Evidence)
+
+⬜ Include 8–10 questions
+⬜ Mix of:
+
+* Ratings (1–5)
+* Yes/No
+* Open questions
+
+⬜ Cover ALL key features:
+
+* Navigation
+* Product browsing
+* Search
+* Cart & checkout
+* Loyalty system
+* Design
+
+💡 Top tip: Make sure questions link to your original requirements
+
+⸻
+
+🟢 4. Results (DATA – very important)
+
+⬜ State number of participants (e.g. 5 users)
+⬜ Include averages (e.g. 4.5/5)
+⬜ Summarise responses clearly
+
+⬜ Include:
+
+* Navigation rating
+* Search effectiveness
+* Checkout clarity
+* Loyalty understanding
+
+⬜ Identify common issues
+
+💡 Optional for top marks:
+⬜ Add charts/screenshots (put in appendix)
+
+⸻
+
+🟢 5. Analysis (🔥 MOST IMPORTANT SECTION)
+
+⬜ Explain what the results mean (not just what they are)
+
+⬜ Link feedback to system features:
+
+* “High navigation score shows good UI design”
+* “Lower checkout rating indicates usability issue”
+
+⬜ Include BOTH:
+
+* Strengths
+* Weaknesses
+
+⬜ Mention:
+
+* User experience (UX)
+* Technical limitations (e.g. no database validation)
+
+⸻
+
+🟢 6. Improvements (Link to Task 3B)
+
+⬜ Suggest real, specific improvements
+
+Examples:
+⬜ Improve checkout (validation + confirmation)
+⬜ Add backend login authentication
+⬜ Store orders in database
+⬜ Improve loyalty system visibility
+⬜ Add user feedback messages (e.g. “Added to cart”)
+
+💡 Top tip: Always link improvements to feedback:
+
+“Based on user feedback…”
+
+⸻
+
+🟢 7. Conclusion
+
+⬜ Summarise overall system performance
+⬜ Mention strengths (UI, browsing, design)
+⬜ Mention key limitations (backend, realism)
+⬜ State that feedback will guide future development
+
+⸻
+
+🟢 8. Appendix (Important!)
+
+⬜ Full survey questions
+⬜ Raw results or screenshots
+⬜ Optional charts/graphs
+
+⸻
+
+🔥 Distinction Checklist (FINAL CHECK)
+
+Before submitting, ask yourself:
+
+✅ Did I include technical AND non-technical feedback?
+✅ Did I use data (ratings, percentages)?
+✅ Did I analyse results (not just describe)?
+✅ Did I suggest real improvements linked to feedback?
+✅ Is everything clearly structured and professional?
+
+⸻
+
+🚀 Reality check (for YOU)
+
+Based on your project:
+
+👉 You already have a strong system
+👉 This checklist ensures you show evaluation + thinking
+
+That’s what gets Distinction
